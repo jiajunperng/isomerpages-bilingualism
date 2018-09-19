@@ -1,0 +1,58 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+- title: About The Fund
+  url: /about-the-fund/about-the-fund/
+  sub-links:
+  - title: About The Fund
+    url: /about-the-fund/about-the-fund/
+  - title: 关于李光耀双语基金
+    url: /about-the-fund/about-the-fund-chi/
+  - title: Tentang Dana Kedwibahasaan Lee Kuan Yew
+    url: /about-the-fund/about-the-fund-mal/
+  - title: இருமொழிக் கல்விக்கான லீ குவான் யூவின் நிதி பற்றிய விவரங்கள்
+    url: /about-the-fund/about-the-fund-tam/
+- title: Proposals
+  url: /proposals/proposals/
+  sub-links:
+  - title: Proposals
+    url: /proposals/proposals/
+  - title: 欢迎您提呈有关促进儿童学习双语的建议
+    url: /proposals/proposals-chi/
+  - title: Kami mengalu-alukan saranan anda bagi menggalakkan pembelajaran dwibahasa dalam kalangan kanak-kanak
+    url: /proposals/proposals-mal/
+  - title: கருத்தாக்கத் திட்டங்களை வரவேற்கிறோம்
+    url: /proposals/proposals-tam/
+- title: Media
+  url: /media/
+  sub-links:
+  - title: All
+    url: /media/
+  - title: Resources
+    url: /media/resources/
+  - title: Press Releases
+    url: /media/press-releases/
+  - title: News About The Fund
+    url: /media/news-about-the-fund/
+  - title: Speeches
+    url: /media/speeches/
+  - title: News About Language Learning
+    url: /media/news-about-language-learning/
+- title: Events
+  url: /events/
+- title: Donations
+  url: /donations/donations/
+  sub-links:
+  - title: Donations
+    url: /donations/donations/
+  - title: 捐款
+    url: /donations/donations-chi/
+  - title: Pendermaan
+    url: /donations/donations-mal/
+  - title: நன்கொடை
+    url: /donations/donations-tam/
+- title: Contact Us
+  url: /contact-us/
